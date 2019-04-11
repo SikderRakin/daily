@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- <color name="colorPrimary">#474A52</color>
+    <color name="colorPrimaryDark">#262932</color>
+    <color name="colorAccent">#6CCFF6</color> -->
+
+
+    <color name="colorPrimary">#44E6C6</color>
+    <color name="colorPrimaryDark">#44E6C6</color>
+    <color name="colorAccent">#44E6C6</color>
+    <color name="colorBackgroud">#474A52</color>
+    <color name="colorTextBackgroud">#ddeaf2</color>
+
+
+
+    <!-- <color name="colorTextSecondary">#474A52</color>
+     <color name="colorMainShadow">#262932</color>
+     <color name="colorSecondary">#6CCFF6</color>
+
+
+     -->
+
+     <!--<color name="colorPrimary">#008577</color>
+     <color name="colorPrimaryDark">#00574B</color>
+     <color name="colorAccent">#D81B60</color>-->
+
+</resources>
